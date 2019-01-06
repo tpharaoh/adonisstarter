@@ -1,4 +1,4 @@
-
+#credits to https://github.com/IvanAquino/adonis-start-admin-starter-spa for the initial boilerplate I forked into this
 # Adonis StarAdmin SPA Starter
 ## Prebuilt auth pages
 
